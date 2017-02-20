@@ -1,5 +1,5 @@
 {
-  "name": "@ellentb/starwars-names",
+  "name": "starwars-names-random-all",
   "version": "1.0.0",
   "description": "Get random Star Wars names",
   "main": "src/index.js",
